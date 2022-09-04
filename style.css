@@ -147,6 +147,7 @@ body {
 }
 .nav-area ul li a:hover {
   text-decoration: underline;
+  text-underline-offset: .5em;
 }
 .header-right {
   position: relative;
