@@ -138,10 +138,12 @@ body {
   margin: 0;
 }
 .nav-area ul li {
+  padding: 5px 10px;
 }
 .nav-area ul li a {
   font-size: 14px;
   font-weight: lighter;
+  color: #000;
 }
 .nav-area ul li a:hover {
   text-decoration: underline;
